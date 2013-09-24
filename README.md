@@ -1,0 +1,2 @@
+DjangoSettings
+==============
